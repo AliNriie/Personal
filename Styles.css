@@ -1,0 +1,165 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    color: #101313;
+}
+
+.Top_Container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+h1 {
+    margin: 50px auto 0px auto;
+    font-family: "Sacramento", cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.Bottom-Cloud {
+    position: absolute;
+    left: 425px;
+    bottom: 320px;
+}
+
+.Top-Cloud {
+    position: absolute;
+    right: 350px;
+    top: 50px;
+}
+
+.footer-link {
+    color: #11999E;
+}
+
+.intro {
+    font-weight: normal;
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.Skill-Photo1 {
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+}
+
+.Skill-Photo2 {
+    width: 25%;
+    float: right;
+    padding-left: 30px;
+}
+
+.HR {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #23a1a1;
+    border-width: 5px;
+    height: 0px;
+    width: 10%;
+    margin: 100px auto 100px auto;
+}
+
+.FEEL {
+    margin: 50px auto 50px auto;
+}
+
+.contact-me {
+    margin: 50px auto 50px auto;
+}
+
+.BUTTON_USE {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11cdd4);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11cdd4);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11cdd4);
+    background-image: -o-linear-gradient(top, #11cdd4, #11cdd4);
+    background-image: -webkit-gradient(to bottom, #11cdd4, #11cdd4);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-family: Times New Roman;
+    font-size: 15px;
+    font-weight: 100;
+    padding: 20px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #11cdd4 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_USE:hover {
+    border: solid #11cdd4 1px;
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11cdd4);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11cdd4);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11cdd4);
+    background-image: -o-linear-gradient(top, #11cdd4, #11cdd4);
+    background-image: -webkit-gradient(to bottom, #11cdd4, #11cdd4);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+
+ .bottom-container {
+    background-color: #66BFBF;
+    height: 100px;
+ }
+
+ .copyright {
+    color: #EAF6F6;
+    position: relative;
+    top: 30px;
+    font-size: 0.75rem;
+ }
+
+ .footer-link {
+    color: #0a6366;
+    text-align: center;
+    position: relative;
+    top: 10px;
+    margin: 10px 20px;
+    text-decoration: none;
+    
+ }
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 50px auto 50px auto;
+}
+
+a:hover {
+    color: #EAF6F6
+}
